@@ -1,1 +1,2 @@
 # Amazon-frontend.css
+The Amazon CSS project is designed to recreate the visual appearance of the Amazon shopping website using CSS. It includes styling for the navigation bar, search box, product sections, banners, buttons, cards, and footer. The layout uses Flexbox, responsive design techniques, colors, spacing, borders, and hover effects to create a clean and user-friendly e-commerce interface.
